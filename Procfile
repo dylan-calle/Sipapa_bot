@@ -1,1 +1,1 @@
-Worker: node ./src/sipapa_bot.js
+Worker: node sipapa_bot.js
