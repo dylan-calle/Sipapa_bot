@@ -1,0 +1,1 @@
+Worker: node ./src/sipapa_bot.js
